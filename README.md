@@ -1,4 +1,4 @@
-# P2PFiles
+# P2P File Transferring System
 
 Share files of all types to your friends from peer to peer via UDP server connections
 
