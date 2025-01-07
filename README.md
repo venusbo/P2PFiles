@@ -8,6 +8,8 @@ Share files of all types to your friends from peer to peer via UDP server connec
 - Log-in credentials stored in the credentials text file
 - files transferred from peer to peer over TCP connections
 
+  
+
 Commands/functions:
 
 - LOGIN
